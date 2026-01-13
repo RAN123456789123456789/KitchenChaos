@@ -1,0 +1,7 @@
+# Unity 二进制包忽略文件
+# 排除调试信息目录
+KitchenChaos_BurstDebugInformation_DoNotShip/
+
+# 排除崩溃处理器（可选）
+# UnityCrashHandler64.exe
+
